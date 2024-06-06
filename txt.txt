@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=94ZEkfTKXoU&list=PLzt0WdHR1Z3mf1surWc55uKKcUr83plAb&index=9
+https://www.youtube.com/watch?v=9Xe8KHWeQV8&list=PLzt0WdHR1Z3mf1surWc55uKKcUr83plAb&index=10
 
 npx react-native start
 npx react-native run-android
