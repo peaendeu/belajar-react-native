@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=94ZEkfTKXoU&list=PLzt0WdHR1Z3mf1surWc55uKKcUr83plAb&index=9
+
+npx react-native start
+npx react-native run-android
